@@ -2,13 +2,13 @@
 - Included are citations of some papers I found interesting
 ## **Introduction**
 - ENSO Description
-- Physics behind ENSO i.e. slacking of equatorial Tradewinds, warmer SST's
+- Physics behind ENSO i.e. slacking of Equatorial Tradewinds, warmer SST's
 - Using past ENSO data trends to predict future events
-- What variables are a good predictor of ENSO events
+- What variables are a possible predictor of ENSO events
 
 ## **Data and Methods**
 - PODAAC 
-  - Satelite data from PODAAC Multi-scale Ultra High Resolutioin (MUR) SST (analyzed_sst) along the Equatorial Pacific Ocean @ 
+  - Satelite data from PODAAC Multi-scale Ultra High Resolution (MUR) SST (analyzed_sst) along the Equatorial Pacific Ocean @ 
     ~140'W, 0'.
   - Satelite data from PODAAC Soil Moisture Active Passive (SMAP) wind speed  (smap_spd) along the Equatorial Pacific Ocean @  
     ~140'W, 0'. 
