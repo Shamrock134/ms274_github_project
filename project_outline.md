@@ -5,7 +5,8 @@
 - Physics behind ENSO i.e. slacking of Equatorial Tradewinds, warmer SST's
 - Using past ENSO data trends to predict future events
 - What variables are a possible predictor of ENSO events
-
+- Map of study area (Figure 1)
+  
 ## **Data and Methods**
 - PODAAC 
   - Satelite data from PODAAC Multi-scale Ultra High Resolution (MUR) SST (analyzed_sst) along the Equatorial Pacific Ocean @ 
@@ -13,18 +14,22 @@
   - Satelite data from PODAAC Soil Moisture Active Passive (SMAP) wind speed  (smap_spd) along the Equatorial Pacific Ocean @  
     ~140'W, 0'. 
 - in situ SST data from the Nationa Data Buoy Center (Station # 51311 @ ~140W, 0' )
-- I will use the Multivariate ENSO Index (MEI) & the Oceanic Nino Index (ONI) to help support my findings.
+- I will use the Multivariate ENSO Index (MEI) & the Oceanic Nino Index (ONI) to help support my findings
   
 ## **Results**
-- Findings and plots, figures, etc
+- Description of results
+- Plots of anomolies both past and present (Figure 2)
 
 ## **Discussion**
 - Analysis and comparison of data from muliple ENSO events
 - What do past ENSO data trends or anomalies tell us
   - Are there any patterns from past ENSO events that may help predict future ENSO events
   - Can past ENSO data help determine the strength of future ENSO events
+  - Possible indicators of the strength of the 2023 ENSO event
+- Table containing analysis of data sets (Figure 3)
+    
 ## **Conclusion**
-- What can be determined from past ENSO events. 
+-  What can we learn from past ENSO trends and anomalies that may help predict future ENSO events and possible the strength of these events 
 
 ## **Citations**
 - Wang, C., Deser, C., Yu, J. Y., DiNezio, P., & Clement, A. (2017). El Niño and southern oscillation (ENSO): a review. Coral reefs of the eastern tropical Pacific: Persistence and loss in 
