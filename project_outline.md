@@ -12,7 +12,7 @@
   - Satelite data from PODAAC Soil Moisture Active Passive (SMAP) wind speed  (smap_spd) along the Equatorial Pacific Ocean @  
     ~140'W, 0'. 
 - in situ SST data from the Nationa Data Buoy Center (Station # 51311 @ ~140W, 0' )
-- I will use the Multivariate ENSO Index (MEI) & the Oceanic Nino Index (ONI) to help support my findings
+- Multivariate ENSO Index (MEI) & the Oceanic Nino Index (ONI) to help support my findings
   
 ## **Results**
 - Description of results
@@ -27,7 +27,7 @@
 - Table containing analysis of data sets (Figure 3)
     
 ## **Conclusion**
--  What can we learn from past ENSO trends and anomalies that may help predict future ENSO events and possible the strength of these events 
+-  What can we learn from past ENSO trends and anomalies that may help predict future ENSO events and possibly the strength of these events 
 
 ## **Citations**
 - Wang, C., Deser, C., Yu, J. Y., DiNezio, P., & Clement, A. (2017). El Niño and southern oscillation (ENSO): a review. Coral reefs of the eastern tropical Pacific: Persistence and loss in 
