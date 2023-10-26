@@ -1,5 +1,3 @@
-### **Below are just some thoughts I have.  I'm sure this will change as I dig deeper into the literature and think of other ideas.**
-- Included are citations of some papers I found interesting
 ## **Introduction**
 - ENSO Description
 - Physics behind ENSO i.e. slacking of Equatorial Tradewinds, warmer SST's
